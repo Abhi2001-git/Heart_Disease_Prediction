@@ -3,4 +3,4 @@ This project focuses on developing a robust machine learning model to classify t
 
 The dataset used in the project : https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset/data
 
-Visit the Huggingface space mentioned in About to try thr app.
+Visit the Huggingface space mentioned in About to try the app.
